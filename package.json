@@ -6,9 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "A. Jesus Barrera",
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.49.9"
+  },
+  "engines" : { 
+    "npm" : ">=8.0.0",
+    "node" : ">=17.0.0"
   }
 }
