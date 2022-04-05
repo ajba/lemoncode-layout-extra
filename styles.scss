@@ -80,3 +80,15 @@ main{
     margin-top: 1%;
 }
 
+
+
+@media only screen and (max-width: 768px) {
+    .list {
+      flex-direction: column;
+    }
+
+    .card-item{
+        width: 100%;
+    }
+  }
+
